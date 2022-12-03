@@ -1,0 +1,66 @@
+[
+    {
+        "id": 0,
+        "name": "Mohamed Salah",
+        "club": "Liverpool",
+        "bio": "Mohamed Salah is one of the world's best and most prolific forwards and a serial champion with Liverpool.",
+        "poster": "https://user-images.githubusercontent.com/20733292/205058581-044ee829-58db-4d88-8e2a-142178beba1f.jpeg",
+        "gif": "https://media.giphy.com/media/mxCK3EcADG1F7krLP6/giphy.gif?cid=ecf05e4701sln9u63lr3z17lh5f3n3h3owrk54zh1183hqmi&rid=giphy.gif&ct=g"
+    },
+    {
+        "id": 1,
+        "name": "Harry Kane",
+        "club": "Spurs",
+        "bio": "Harry Edward Kane MBE is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team.",
+        "poster": "https://user-images.githubusercontent.com/20733292/205061795-d674a796-358d-486c-be2d-7c445fc6a4f8.jpeg",
+        "gif": "https://media2.giphy.com/media/lNJeGSck721DHGGAio/giphy.gif?cid=ecf05e47oxh3nmhnsge8p1oadk2a3tmdl6czynn8saw6yq5g&rid=giphy.gif&ct=g"
+    },
+    {
+        "id": 2,
+        "name": "Erling Braut Haaland",
+        "club": "Man City",
+        "bio": "Erling Braut Haaland is a Norwegian professional footballer who plays as a striker for Premier League club Manchester City and the Norway national team. Considered one of the best players in the world, he is known for his speed, strength and finishing",
+        "poster": "https://user-images.githubusercontent.com/20733292/205063776-5c38e512-5ffb-46a0-b9a0-d661f7405813.jpeg",
+        "gif": "https://media1.giphy.com/media/6Rf3qQXh8avvv7NRiU/giphy.gif?cid=ecf05e47j6m64muidzp3wey6n0njbnogeadacat5ft0vtbh4&rid=giphy.gif&ct=g"
+    },
+    {
+        "id": 3,
+        "name": "Son Heung-min",
+        "club": "Spurs",
+        "bio": "Son Heung-min is a South Korean professional footballer who plays as a forward for Premier League club Tottenham Hotspur and captains the South Korea national team.",
+        "poster": "https://user-images.githubusercontent.com/20733292/205064627-3c625a93-059d-45df-ae28-60e63f3b5276.jpeg",
+        "gif": "https://media3.giphy.com/media/495HZM9B4vyNUvFhDu/giphy.gif?cid=790b7611751c38521f03b851328eab5a65c81dc6d997e5c3&rid=giphy.gif&ct=g"
+    },
+    {
+        "id": 4,
+        "name": "Bruno Fernandes",
+        "club": "Manchester United",
+        "bio": "Bruno Miguel Borges Fernandes is a Portuguese professional footballer who plays as an attacking midfielder for Premier League club Manchester United and the Portugal national team. Fernandes is known for his goalscoring, playmaking, leadership, penalty taking, and work rate.",
+        "poster": "https://user-images.githubusercontent.com/20733292/205065620-116cee15-97a4-4feb-b803-541fa92f2055.jpeg",
+        "gif": "https://media0.giphy.com/media/KEluHQ24vy6ctcsMCh/giphy.gif?cid=ecf05e47gqs01lm09wh2vb1ru8nxefjdq6hutzbpc5coujek&rid=giphy.gif&ct=g"
+    },
+    {
+        "id": 5,
+        "name": "Jamie Vardy",
+        "club": "Leicester City",
+        "bio": "Jamie Richard Vardy is an English professional footballer who plays as a striker for Premier League club Leicester City. He also played for the England national team between 2015 and 2018. He is known for his prolific goalscoring aided by his movement, explosive pace, clinical finishing, and tactical proficiency.",
+        "poster": "https://user-images.githubusercontent.com/20733292/205068981-800c2d78-81b3-4872-be44-48b51121cd75.jpeg",
+        "gif": "https://media3.giphy.com/media/u0T4UvcIpti9948BQT/giphy.gif?cid=ecf05e47ho2lcam4z9iazeu7xbmcddwln3s6tg1rlgs4xeyn&rid=giphy.gif&ct=g"
+    },
+    {
+        "id": 6,
+        "name": "Gabriel Jesus",
+        "club": "Arsenal",
+        "bio": "Gabriel Fernando de Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Arsenal and the Brazil national team. Jesus began his senior club career at Palmeiras, where he was voted Best Newcomer at the 2015 Campeonato Brasileiro Série A and won the Copa do Brasil.",
+        "poster": "https://user-images.githubusercontent.com/20733292/205071688-0ad85df6-3c1c-4279-8a86-5694f2a8f840.png",
+        "gif": "https://media4.giphy.com/media/ZUUJXoUQVKBAAPZMlG/giphy.gif?cid=ecf05e47fbtqto7px88i1t2alcepbc1pgthzp2yv6e04x5pi&rid=giphy.gif&ct=g"
+    },
+    {
+        "id": 7,
+        "name": "Jordan Pickford",
+        "club": "Everton",
+        "bio": "Jordan Lee Pickford is an English professional footballer who plays as a goalkeeper for Premier League club Everton and the England national team.",
+        "poster": "https://user-images.githubusercontent.com/20733292/205073277-0e1e3c5f-158c-4401-86d1-6460e1ea6f5c.jpeg",
+        "gif": "https://media1.giphy.com/media/O3rUntSOtHYIzUtVma/giphy.gif?cid=ecf05e476fxnm3ue1ur860gj027ecjk55np8eb3i26wz1hc9&rid=giphy.gif&ct=g"
+    }
+]

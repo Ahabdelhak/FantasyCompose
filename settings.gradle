@@ -1,0 +1,3 @@
+rootProject.name = "FantasyCompose"
+include ':app'
+include ':benchmark'
